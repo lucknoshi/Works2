@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Edu QLD Beginner
+- Font Author: Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)
+- Font Source: http://fonts.gstatic.com/s/eduqldbeginner/v3/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE4E3oebi6vyVWCN.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

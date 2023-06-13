@@ -2,7 +2,7 @@ import  random
 
 def randpasswd(length, chars=None):
     if chars is None:
-        chars ="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%¨&*()_+/*\\|<>;:"
+        chars ="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%¨&*()_+/*|<>;:"
 
         passwd = ""
         for i in range(length):
@@ -11,4 +11,4 @@ def randpasswd(length, chars=None):
         return password
     
     # omit this if you just want the funcion
-    print(randpasswd(12))
+    #print(randpasswd(12))
